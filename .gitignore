@@ -1,8 +1,6 @@
 # Unreal Engine 5 specific .gitignore
 
 # Unreal Engine project folders #
-[Bb]uild/
-[Bb]uilds/
 Binaries/
 DerivedDataCache/
 Intermediate/
